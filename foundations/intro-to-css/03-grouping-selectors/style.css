@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.button_b,
+.button_y {
+    font-size:28px;
+    font-family:Helvetica,"Times New Roman", sans-serif;
+}
+
+.button_b {
+    background-color:#161616;
+    color:rgb(255, 255, 255);
+}
+
+.button_y {
+    background-color:hsl(60, 82%, 51%);
+    color:black;
+}
